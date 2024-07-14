@@ -112,7 +112,21 @@
 // console.log(z);
 
 // 21 misol
+// let num1 = 123;
+// let num2 = Math.floor(num1 / 100);
+// let num3 = Math.floor((num1 % 100) /10);
+// let num4 = num1 % 10;
+// let result = num2 + num3 + num4;
+// console.log(result);
+
 // 22 misol
+// let num1 = 123;
+// let num2 = num1 % 10;
+// let num3 = Math.floor((num1 % 100) /10);
+// let num4 = Math.floor(num1 / 100);
+// let result = num2 * 100 + num3 * 10 + num4;
+// console.log(result);
+
 // 23 misol
 // alert('3 honali son berrilgan')
 // let B = +prompt("B");
